@@ -1,0 +1,132 @@
+# --------------------------------------------------
+# BASIC DOCUMENT INFORMATION
+# (Descriptive facts – not interpretation)
+# --------------------------------------------------
+
+title: ""              # Full title of the document
+year: null             # Year of publication
+source_type: peer_reviewed  
+# peer_reviewed | fhf_report | public_report | white_paper
+
+journal: ""            # Journal name (if applicable)
+doi: ""                # DOI or stable identifier
+authors: []            # Optional: list authors if useful
+
+
+# --------------------------------------------------
+# RELEVANCE TO AP1
+# (Human judgement – why this document matters here)
+# --------------------------------------------------
+
+relevance:
+  - ""                 # lice | mortality | treatment | welfare | disease | etc.
+
+relevance_score: 3     
+# 1 = peripheral
+# 3 = relevant
+# 5 = central to AP1 core questions
+
+relevance_rationale: >
+  # Short explanation of why this document is relevant for AP1.
+  # Focus on the question it helps illuminate, not its conclusions.
+
+
+# --------------------------------------------------
+# CONTEXT OF THE EVIDENCE
+# (Descriptive, but requires correct interpretation)
+# --------------------------------------------------
+
+production_stage:
+  # smolt | post_smolt | grow_out | pre_slaughter
+  - ""
+
+system_type:
+  # open_cage | semi_closed | closed | land_based | RAS
+  - ""
+
+geography:
+  # Country, region, or production area
+  - ""
+
+evidence_type:
+  # empirical_experimental | empirical_observational | review | model | qualitative
+  ""
+
+
+# --------------------------------------------------
+# SYNTHESIS-LEVEL HUMAN ASSESSMENTS
+# (These do NOT come from the paper – they come from the curator)
+# --------------------------------------------------
+
+consensus_signal: mixed
+# high_agreement
+# moderate_agreement
+# mixed
+# context_dependent
+# contested
+# insufficient_evidence
+#
+# Indicates how this document fits into the broader literature,
+# not whether it is "right".
+
+quality_signal: medium
+# strong | medium | weak
+#
+# Overall assessment of methodological robustness and transparency.
+
+
+# --------------------------------------------------
+# INCLUSION LOGIC (CRITICAL)
+# --------------------------------------------------
+
+included_because: >
+  # Explicit reason why this document is included in the AP1 corpus.
+  # This is a human, curatorial judgement.
+  # Focus on the role the document plays in the knowledge landscape.
+
+
+# --------------------------------------------------
+# OPTIONAL BUT RECOMMENDED CURATOR FIELDS
+# --------------------------------------------------
+
+quality_rationale: >
+  # Short explanation of the quality_signal.
+  # Mention key strengths or limitations.
+
+transferability: medium
+# high | medium | low
+#
+# How transferable are the findings to other systems or contexts?
+
+transferability_notes: >
+  # Brief explanation of what limits or supports transferability.
+
+coi_declared: unclear
+# yes | no | unclear
+#
+# Based on funding statements / declarations in the document.
+
+coi_notes: >
+  # Any relevant notes on funding, industry involvement, or uncertainty.
+
+
+# --------------------------------------------------
+# KEY CLAIMS FOR SYNTHESIS
+# (Human-formulated summaries used later in analysis)
+# --------------------------------------------------
+
+key_claims:
+  - ""   # Short, neutral statement of a central finding or claim
+  - ""
+  - ""
+
+
+# --------------------------------------------------
+# FREE-FORM CURATOR COMMENTS (OPTIONAL)
+# --------------------------------------------------
+
+# Curator note:
+# Use this section for comments that are helpful for humans
+# but not intended for filtering or automated use.
+# Example: suggestions for pairing with contrasting studies,
+# reminders about assumptions, or notes for future updates.
