@@ -1,0 +1,112 @@
+# --------------------------------------------------
+# BASIC DOCUMENT INFORMATION (descriptive facts)
+# --------------------------------------------------
+
+title: "Estimating cage-level mortality distributions following different delousing treatments in Atlantic salmon"
+year: 2021
+source_type: peer_reviewed
+journal: "Journal of Fish Diseases"
+doi: "10.1111/jfd.13348"
+authors:
+  - Sviland Walde, C.
+  - et al.
+
+
+# --------------------------------------------------
+# RELEVANCE TO AP1 (human judgement)
+# --------------------------------------------------
+
+relevance:
+  - lice
+  - delousing
+  - mortality
+
+relevance_score: 5
+relevance_rationale: >
+  Directly addresses post-delousing mortality at cage level and provides
+  a quantitative framework for comparing mortality outcomes across different
+  delousing treatments, central to the AP1 lice–mortality question.
+
+
+# --------------------------------------------------
+# CONTEXT OF THE EVIDENCE (interpreted facts)
+# --------------------------------------------------
+
+production_stage:
+  - grow_out
+
+system_type:
+  - open_cage
+
+geography:
+  - Norway
+
+evidence_type: empirical_observational
+
+
+# --------------------------------------------------
+# SYNTHESIS-LEVEL HUMAN ASSESSMENTS
+# (do NOT come from the paper itself)
+# --------------------------------------------------
+
+consensus_signal: context_dependent
+# Human judgement:
+# Mortality outcomes vary by treatment type and context;
+# the paper itself emphasises distributions rather than single effects.
+
+quality_signal: strong
+# Human judgement:
+# Robust statistical modelling applied to large-scale industry data.
+
+
+# --------------------------------------------------
+# INCLUSION LOGIC (critical human decision)
+# --------------------------------------------------
+
+included_because: >
+  Peer-reviewed observational study providing a statistically robust
+  analysis of cage-level mortality distributions following different
+  delousing treatments. Included as a key quantitative reference that
+  complements mechanistic and welfare-focused studies and is frequently
+  cited in discussions on treatment-related mortality risk.
+
+
+# --------------------------------------------------
+# OPTIONAL CURATOR ASSESSMENTS
+# --------------------------------------------------
+
+quality_rationale: >
+  Large dataset with appropriate statistical modelling of mortality
+  distributions. While observational, the analytical approach allows
+  meaningful comparison across treatment categories.
+
+transferability: medium
+transferability_notes: >
+  Results are highly relevant to Norwegian open-cage production systems.
+  Transferability to other regulatory or operational contexts should be
+  assessed with caution.
+
+coi_declared: unclear
+coi_notes: >
+  Funding sources and conflict-of-interest statements should be checked
+  and updated explicitly if required.
+
+
+# --------------------------------------------------
+# KEY CLAIMS (human-formulated, neutral)
+# --------------------------------------------------
+
+key_claims:
+  - "Cage-level mortality following delousing shows substantial variation across treatment types."
+  - "Mortality outcomes are better described by distributions than by single average values."
+  - "Contextual and operational factors strongly influence post-treatment mortality risk."
+
+
+# --------------------------------------------------
+# FREE-FORM CURATOR COMMENTS
+# --------------------------------------------------
+
+# Curator note:
+# This paper is well suited for pairing with:
+# - 2023 JFD studies focusing on post-treatment mortality dynamics, and
+# - experimental/welfare studies explaining physiological mechanisms.
