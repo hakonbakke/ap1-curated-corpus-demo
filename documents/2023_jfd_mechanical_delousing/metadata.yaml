@@ -1,0 +1,48 @@
+title: "Mortality following mechanical delousing in Atlantic salmon"
+year: 2023
+source_type: peer_reviewed
+journal: "Journal of Fish Diseases"
+doi: "10.1111/jfd.14087"
+authors: []
+
+relevance:
+  - lice
+  - mechanical_delousing
+  - mortality
+relevance_score: 5
+relevance_rationale: >
+  Directly addresses post-treatment mortality patterns following mechanical delousing,
+  central to the AP1 pilot question on lice and mortality.
+
+production_stage:
+  - grow_out
+system_type:
+  - open_cage
+geography:
+  - Norway
+evidence_type: empirical_observational
+
+consensus_signal: context_dependent
+quality_signal: medium
+
+included_because: >
+  Peer-reviewed observational study analysing mortality patterns following mechanical
+  delousing under commercial conditions. Useful for contrasting treatment-related risk
+  against alternative studies and for identifying contextual drivers (e.g., handling
+  intensity and site conditions).
+
+# Curator note: Pair with at least one study reporting lower/no mortality increase to surface disagreement.
+# Curator note: Tag specific handling regime/intensity if extracted consistently across documents.
+
+transferability: medium
+transferability_notes: >
+  Likely transferable to comparable open-cage systems, but outcomes may vary with handling intensity,
+  environmental conditions, and operational practice.
+
+coi_declared: unclear
+coi_notes: >
+  Check the paper's conflict-of-interest and funding statements and update this field.
+
+key_claims:
+  - "Mortality shows a measurable increase following mechanical delousing in the observed setting."
+  - "Effects vary across sites/events, indicating strong contextual dependence."
