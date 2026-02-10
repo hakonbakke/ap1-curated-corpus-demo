@@ -40,3 +40,6 @@ It will be expanded iteratively as part of ongoing work.
 
 This repository is public to enable transparency and discussion,
 but the corpus itself should be read as **work in progress**.
+
+The repository is organised around explicitly defined priority questions,
+which guide corpus construction and subsequent analysis.
