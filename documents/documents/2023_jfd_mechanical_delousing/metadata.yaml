@@ -1,0 +1,24 @@
+title: "Mortality following mechanical delousing in Atlantic salmon"
+year: 2023
+source_type: peer_reviewed
+journal: Journal of Fish Diseases
+doi: 10.1111/jfd.14087
+authors:
+  - Multiple authors
+relevance:
+  - lice
+  - mechanical_delousing
+  - mortality
+production_stage:
+  - grow_out
+system_type:
+  - open_cage
+geography:
+  - Norway
+evidence_type: empirical_observational
+consensus_signal: mixed
+included_because: >
+  Peer-reviewed observational study analysing mortality patterns following
+  mechanical delousing under commercial farming conditions. The study is
+  frequently referenced in discussions on welfare and mortality impacts of
+  non-medicinal lice tre
