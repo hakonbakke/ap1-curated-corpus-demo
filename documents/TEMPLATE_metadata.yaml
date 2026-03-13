@@ -13,22 +13,6 @@ doi: ""                # DOI or stable identifier
 authors: []            # Optional: list authors if useful
 
 
-# --------------------------------------------------
-# RELEVANCE TO AP1
-# (Human judgement – why this document matters here)
-# --------------------------------------------------
-
-relevance:
-  - ""                 # lice | mortality | treatment | welfare | disease | etc.
-
-relevance_score: 3     
-# 1 = peripheral
-# 3 = relevant
-# 5 = central to AP1 core questions
-
-relevance_rationale: >
-  # Short explanation of why this document is relevant for AP1.
-  # Focus on the question it helps illuminate, not its conclusions.
 
 
 # --------------------------------------------------
